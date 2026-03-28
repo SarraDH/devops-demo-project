@@ -1,5 +1,5 @@
-# Base image 
-FROM eclipse-temurin:17-jdk-alpine
+# Base image
+FROM --platform=linux/amd64 eclipse-temurin:17-jdk-alpine   
 
 
 # setting artifact path
