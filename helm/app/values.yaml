@@ -8,7 +8,7 @@ image:
   repository: sarra1422/demo-java-app
   pullPolicy: Never
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v1.0
+  tag: V1.0
 
 appName: demo-java-app
 
