@@ -5,7 +5,6 @@
 replicaCount: 2
 
 image:
-  githubID: SarraDH
   repository: sarra1422/demo-java-app
   pullPolicy: Never
   # Overrides the image tag whose default is the chart appVersion.
